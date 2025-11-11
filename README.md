@@ -1,6 +1,8 @@
 # Stunt Bike Extreme
 
 **Stunt Bike Extreme** es un juego de acrobacias en motocicleta desarrollado en **Python** utilizando **Pygame**. El objetivo del juego es realizar acrobacias espectaculares en el aire, aterrizar correctamente y acumular puntos, mientras se evitan caídas que puedan hacer perder vidas.
+<img width="791" height="629" alt="image" src="https://github.com/user-attachments/assets/494c495c-6daf-4576-a92e-c0f5915b73ca" />
+
 
 ---
 
@@ -35,6 +37,7 @@
 | ENTER   | Seleccionar opción en menú / volver al menú desde Game Over |
 
 ---
+<img width="799" height="631" alt="image" src="https://github.com/user-attachments/assets/5234438e-0e50-4ef8-84ca-15d036284192" />
 
 ## Instalación
 
